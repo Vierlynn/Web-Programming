@@ -1,6 +1,4 @@
-<!-- Begin Page Content -->
 <div class="container-fluid">
-	<!-- Page Heading -->
 	<div class="d-sm-flex align-items-center justify-content-between mb-4">
 		<h1 class="h3 mb-0 text-gray-800">Data admin</h1>
 		<a href="#" data-toggle="modal" data-target="#tambahModal"
@@ -50,7 +48,6 @@
     </div>
     </div>
 </div>
-<!-- /.container-fluid -->
 
 <div class="modal fade" id="tambahModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
 	aria-hidden="true">

@@ -1,7 +1,5 @@
-<!-- Begin Page Content -->
 <div class="container-fluid">
 
-	<!-- Page Heading -->
 	<div class="col-lg-12">
         <h1 class="h3 mb-4 text-gray-800">Data obat</h1>
 		<div class="card shadow mb-4">
@@ -17,7 +15,7 @@
 				<table class="table table-bordered" id="dataTable">
 					<thead>
 						<tr>
-							<th>#</th>
+							<th>Nomor</th>
 							<th>Kode Obat</th>
 							<th>Nama Obat</th>
 							<th>Harga</th>
@@ -25,7 +23,7 @@
 							<th>Supplier</th>
 							<th>Stok</th>
 							<th>Gambar</th>
-							<th>Opsi</th>
+							<th>Aksi</th>
 						</tr>
 					</thead>
 					<?php $no = 1; ?>
@@ -52,4 +50,3 @@
 		</div>
 	</div>
 </div>
-<!-- /.container-fluid -->
